@@ -9,9 +9,10 @@ Typescripts decorator which helps in:
 - `Go To Definition` support
 - Parameterized translations
 - Missing translation generation for quick prototyping
-<div style="text-align: center">
+<div style="text-align: center; width: 100%">
  <img style="max-width: 256px; border-radius: 8px;  box-shadow: 0 10px 10px -5px rgba(128, 128, 128, 0.25);" src="images/goToDefinition.gif">
 </div>
+
 ### Install
 
 Install dependencies with npm:
@@ -51,11 +52,14 @@ export class Component {
   };
 }
 ```
+
 ### 💬 Set current language
 ```ts
 setTranslationLanguage(Languages.English);
 ```
+
 <hr/>
+
 ### 😊 Parameterized translations
 ```ts
   @Translations()
