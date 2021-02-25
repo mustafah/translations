@@ -1,7 +1,7 @@
 
 <p align="center">
   <img width="128" src="https://static.thenounproject.com/png/2556730-200.png">
-  <h1 style="margin: 0; text-align: center">@Translations <br/>Typescript Decorator</h1>
+  <h1 style="margin: 0; text-align: center">@Translations Typescript Decorator</h1>
 </p>
 
 Typescripts decorator which helps in:
@@ -80,6 +80,7 @@ setTranslationLanguage(Languages.English);
   // Willkommen in Deutschland
 ```
 <hr/>
+
 ### 🚀 Missing translations generation
 <div style="text-align: center">
  <img style="max-width: 256px; border-radius: 8px;  box-shadow: 0 10px 10px -5px rgba(128, 128, 128, 0.25);" src="images/missingTranslations.gif">
