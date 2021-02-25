@@ -10,7 +10,7 @@ Typescripts decorator which helps in:
 - Parameterized translations
 - Missing translation generation for quick prototyping
 <div style="text-align: center">
- <img style="max-width: 256px; border-radius: 8px;  box-shadow: 0 10px 10px -5px rgba(128, 128, 128, 0.25);" src="images/goToDefinition.gif">
+ <img style="max-width: 256px; border-radius: 8px;  box-shadow: 0 10px 10px -5px rgba(128, 128, 128, 0.25);" src="https://raw.githubusercontent.com/mustafah/translations/main/images/goToDefinition.gif">
 </div>
 ### Install
 
@@ -57,6 +57,7 @@ setTranslationLanguage(Languages.English);
 ```
 <hr/>
 ### 😊 Parameterized translations
+
 ```ts
   @Translations()
   t: any = {
@@ -83,5 +84,7 @@ setTranslationLanguage(Languages.English);
 
 ### 🚀 Missing translations generation
 <div style="text-align: center">
- <img style="max-width: 256px; border-radius: 8px;  box-shadow: 0 10px 10px -5px rgba(128, 128, 128, 0.25);" src="images/missingTranslations.gif">
+ <img style="max-width: 256px; border-radius: 8px;  box-shadow: 0 10px 10px -5px rgba(128, 128, 128, 0.25);" src="https://raw.githubusercontent.com/mustafah/translations/main/images/missingTranslations.gif">
 </div>
+<br/>
+<p align="center">Thank you 🙏</p>
