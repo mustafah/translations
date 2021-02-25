@@ -1,7 +1,7 @@
 
 <p align="center">
   <img width="128" src="https://static.thenounproject.com/png/2556730-200.png">
-  <h1 style="margin: 0; text-align: center">@Translations Typescript Decorator</h1>
+  <h1 align="center" style="margin: 0; text-align: center">@Translations Typescript Decorator</h1>
 </p>
 
 Typescripts decorator which helps in:
