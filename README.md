@@ -1,7 +1,7 @@
 
 <p align="center">
   <img width="128" src="https://static.thenounproject.com/png/2556730-200.png">
-  <h1 style="margin: 0; text-align: center">@Translations Typescript Decorator</h1>
+  <h1 align="center" style="margin: 0; text-align: center">@Translations Typescript Decorator</h1>
 </p>
 
 Typescripts decorator which helps in:
@@ -9,9 +9,10 @@ Typescripts decorator which helps in:
 - `Go To Definition` support
 - Parameterized translations
 - Missing translation generation for quick prototyping
-<div style="text-align: center">
- <img style="max-width: 256px; border-radius: 8px;  box-shadow: 0 10px 10px -5px rgba(128, 128, 128, 0.25);" src="https://raw.githubusercontent.com/mustafah/translations/main/images/goToDefinition.gif">
-</div>
+<p style="text-align: center; width: 100%" align="center">
+ <img style="max-width: 256px; border-radius: 8px;  box-shadow: 0 10px 10px -5px rgba(128, 128, 128, 0.25);" src="images/goToDefinition.gif">
+</p>
+
 ### Install
 
 Install dependencies with npm:
@@ -51,11 +52,14 @@ export class Component {
   };
 }
 ```
+
 ### 💬 Set current language
 ```ts
 setTranslationLanguage(Languages.English);
 ```
+
 <hr/>
+
 ### 😊 Parameterized translations
 
 ```ts
@@ -83,8 +87,8 @@ setTranslationLanguage(Languages.English);
 <hr/>
 
 ### 🚀 Missing translations generation
-<div style="text-align: center">
- <img style="max-width: 256px; border-radius: 8px;  box-shadow: 0 10px 10px -5px rgba(128, 128, 128, 0.25);" src="https://raw.githubusercontent.com/mustafah/translations/main/images/missingTranslations.gif">
-</div>
+<p align="center" style="text-align: center">
+ <img style="max-width: 256px; border-radius: 8px;  box-shadow: 0 10px 10px -5px rgba(128, 128, 128, 0.25);" src="images/missingTranslations.gif">
+</p>
 <br/>
 <p align="center">Thank you 🙏</p>
